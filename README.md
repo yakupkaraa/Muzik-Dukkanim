@@ -1,2 +1,2 @@
 # Muzik-Dukkanim
-Patika.dev Bootstrap il site ödevi
+Patika.dev Bootstrap ilk site ödevi
